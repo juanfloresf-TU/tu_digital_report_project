@@ -11,4 +11,3 @@ if today.day == 1:
     
 else:
     print("It's not the first day of the month." + str(today))
-   
